@@ -12,20 +12,22 @@ Requirements:-
 						
 Step 1:--	
 		Start MySQL Server and Import java Database File.
+		
 Step 2:-- 		
 		Open Project in netbeans and add  jar file to libraries.
+		
 Step 3:-- 					
 		Build Project and Run home.java (Which is main java file).
 
 		
-		*Great Airline Reservation System Started Successfully*
+		Great Airline Reservation System Started Successfully
 		
 		
 @@ To Book Flight (Customer):--
 
 Step 1:--
-		Go to Home Tab and Click on Register Button or Log in if you already registered .
-		
+		Go to Home Tab and Click on Register Button or Log in if you already registered.
+				
 Step 2:--		
 		Log in by using credentials you used at the time of registration. 
 
@@ -40,4 +42,4 @@ Step 3:--
 Step 4:--		
 		Click on Recept in dashboard for Ticket booking recept.
 		
-			*You have Successfully Booked Flight*
+			You have Successfully Booked Flight
